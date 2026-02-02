@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1769791492524,"sparkVersion":"3.0.3","uid":"OneHotEncoder_1fa1f08d74c4","paramMap":{"outputCol":"distance_category_idx_vec","inputCol":"distance_category_idx"},"defaultParamMap":{"dropLast":true,"handleInvalid":"error","outputCol":"OneHotEncoder_1fa1f08d74c4__output"}}
